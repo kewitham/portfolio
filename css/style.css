@@ -1,0 +1,22 @@
+.btn-default{
+	border: 1px solid darkorchid;
+	color: darkorchid;
+}
+.btn-default:hover{
+	border: 1px solid darkorchid;
+outline: 0;
+color: #000;
+background-color: darkorchid;
+}
+
+a{
+	color:darkorchid;
+}
+
+a:hover{
+	color:mediumpurple;
+}
+
+div.download-section{
+padding:200px 0;
+}
